@@ -1,0 +1,16 @@
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.dll
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.pdb
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.xml
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.dll.manifest
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.vsto
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.docx
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ThisDocument.resources
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.Resources.resources
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.vbproj.GenerateResource.Cache
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.dll
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.xml
+D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.pdb
