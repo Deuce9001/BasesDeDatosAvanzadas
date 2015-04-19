@@ -14,3 +14,20 @@ D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.v
 D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.dll
 D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.xml
 D:\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.pdb
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.dll
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.pdb
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.xml
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.dll.manifest
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.vsto
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.docx
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ActionsPaneControlSexo.resources
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ThisDocument.resources
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.Resources.resources
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.vbproj.GenerateResource.Cache
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.dll
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.xml
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.pdb

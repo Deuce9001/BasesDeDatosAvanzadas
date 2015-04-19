@@ -123,10 +123,19 @@
     <Import Include="Word = Microsoft.Office.Interop.Word" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="ActionsPaneControlSexo.resx">
+      <DependentUpon>ActionsPaneControlSexo.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ThisDocument.resx">
       <DependentUpon>ThisDocument.vb</DependentUpon>
     </EmbeddedResource>
     <None Include="BasesDeDatosAvanzadas.docx" />
+    <Compile Include="ActionsPaneControlSexo.Designer.vb">
+      <DependentUpon>ActionsPaneControlSexo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ActionsPaneControlSexo.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="ThisDocument.vb">
       <DependentUpon>BasesDeDatosAvanzadas.docx</DependentUpon>
     </Compile>
