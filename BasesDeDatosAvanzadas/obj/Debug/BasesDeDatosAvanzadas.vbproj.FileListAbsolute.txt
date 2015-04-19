@@ -31,3 +31,4 @@ C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\B
 C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.dll
 C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.xml
 C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.pdb
+C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ActionsPaneControlEscolaridad.resources
