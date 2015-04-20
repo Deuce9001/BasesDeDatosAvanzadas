@@ -10,4 +10,7 @@
 
     End Sub
 
+    Private Sub nombresBookmark_SelectionChange(sender As Object, e As Microsoft.Office.Tools.Word.SelectionEventArgs) Handles nombresBookmark.SelectionChange
+        Application.TaskPanes(Word.WdTaskPanes.wdTaskPaneFormatting).Visible = True
+    End Sub
 End Class
