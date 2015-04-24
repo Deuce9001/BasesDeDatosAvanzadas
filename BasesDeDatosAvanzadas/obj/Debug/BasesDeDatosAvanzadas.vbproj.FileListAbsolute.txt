@@ -32,3 +32,21 @@ C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\B
 C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.xml
 C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.pdb
 C:\Users\Alejandra\Documents\Visual Studio 2013\Projects\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ActionsPaneControlEscolaridad.resources
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.dll
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.pdb
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.xml
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.dll.manifest
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.vsto
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\BasesDeDatosAvanzadas.docx
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ActionsPaneControlEscolaridad.resources
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ActionsPaneControlSexo.resources
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.ThisDocument.resources
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.Resources.resources
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.vbproj.GenerateResource.Cache
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.dll
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.xml
+C:\Users\AndyE\Documents\GitHub\BasesDeDatosAvanzadas\BasesDeDatosAvanzadas\obj\Debug\BasesDeDatosAvanzadas.pdb
